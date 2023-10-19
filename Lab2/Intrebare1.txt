@@ -1,0 +1,11 @@
+Pentru a răspunde la  întrebarea referitoare la modificarea valorii constantei MatrixMode.Projection și ce observați, să examinăm codul următor din SimpleWindow3D:
+Matrix4 perspective = Matrix4.CreatePerspectiveFieldOfView(MathHelper.PiOver4, (float)aspect_ratio, 1, 64);
+GL.MatrixMode(MatrixMode.Projection);
+GL.LoadMatrix(ref perspective);
+
+Acest cod setează matricea de proiecție utilizată pentru randarea scenei 3D. Matrix4.CreatePerspectiveFieldOfView definește o matrice de proiecție cu un anumit unghi de vedere, 
+raportul de aspect și valorile zNear și zFar. GL.MatrixMode(MatrixMode.Projection) indică faptul că următoarele operații OpenGL se vor aplica asupra matricei de proiecție, 
+iar GL.LoadMatrix(ref perspective) încarcă matricea de proiecție în OpenGL.
+
+Modificând valorile acestei matrice, vom influența modul în care obiectele sunt proiectate pe ecran. De exemplu, dacă modificăm valoarea zNear la un număr mic, 
+asta ar putea determina obiectele să fie mai aproape de camera virtuală, ceea ce ar putea duce la o percepție mai precisă a detaliilor, dar și la o distorsiune mai mare în imagine.
