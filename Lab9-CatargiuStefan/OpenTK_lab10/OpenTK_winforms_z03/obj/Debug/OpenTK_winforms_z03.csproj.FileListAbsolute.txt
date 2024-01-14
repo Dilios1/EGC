@@ -1,0 +1,30 @@
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.Properties.Resources.resources
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CopyComplete
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe
+C:\Users\Admin\Downloads\Laborator EGC 09 (2023-2024) - Texturare\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.Properties.Resources.resources
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CopyComplete
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe
+C:\Users\Admin\Downloads\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.pdb
