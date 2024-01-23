@@ -1,0 +1,45 @@
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.Properties.Resources.resources
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CopyComplete
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.Properties.Resources.resources
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CopyComplete
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe
+C:\Users\Student\Downloads\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.Properties.Resources.resources
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CopyComplete
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe
+C:\Users\Admin\Downloads\EGC-20240115T185147Z-001\EGC\Laborator EGC 10-1 (2023-2024)-20240115T061612Z-001\Laborator EGC 10-1 (2023-2024)\OpenTK_lab11\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.pdb
